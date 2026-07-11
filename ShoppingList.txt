@@ -1,5 +1,10 @@
 Milk
-Break
+Bread
 Bananas
 Eggs
+apples
+oranges
+graps 
+peanut butter 
+jam
 
