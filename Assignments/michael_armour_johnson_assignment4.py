@@ -16,10 +16,14 @@ school = input("What elementary school did you attend? ")
 #open the file 
 f = open("hackme.txt", "w")
 #write the file
-f.write(name)
+f.write(name) 
+f.write(" ")
 f.write(color)
+f.write(" ")
 f.write(pet)
+f.write(" ")
 f.write(parent)
+f.write(" ")
 f.write(school) 
 #Close the file 
 f.close()
